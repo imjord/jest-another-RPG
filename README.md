@@ -1,2 +1,2 @@
 # jest-another-RPG
-nice
+NodeJS RPG made with OOP practices
